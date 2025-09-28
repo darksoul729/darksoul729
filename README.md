@@ -37,6 +37,6 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hermansyah-49b43b387/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
