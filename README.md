@@ -6,7 +6,7 @@
 ---
 
 ## 🎶 Now Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Polah)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/darksoul0)
 
 ---
 
