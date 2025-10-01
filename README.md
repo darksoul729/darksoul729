@@ -103,11 +103,6 @@ I love turning complex problems into simple, beautiful designs. When I'm not cod
 
 ---
 
-## 📚 Recent Repositories
-
-<div align="center">
-  <img src="https://github-readme-recent-repos.vercel.app/api?username=darksoul729&theme=tokyonight&limit=5&hide_border=true&bg_color=0D1117" />
-</div>
 
 ---
 
