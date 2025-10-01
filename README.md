@@ -123,12 +123,6 @@ I love turning complex problems into simple, beautiful designs. When I'm not cod
 
 ---
 
-## 📝 Latest Blog Posts
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-medium.vercel.app/?username=darksoul729&limit=3&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
 ---
 
