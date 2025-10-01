@@ -119,11 +119,6 @@ I love turning complex problems into simple, beautiful designs. When I'm not cod
 
 ---
 
-## 🎮 Pacman Game
-<div align="center">
-  <img src="https://readme-pacman.vercel.app/.svg?username=darksoul729&theme=tokyonight" alt="Pacman Game" />
-</div>
-
 ---
 
 ## ✨ Random Dev Quote
